@@ -3,5 +3,5 @@ name=microg google contact and calendar sync
 version=v1.0.0
 versionCode=100
 author=Ali BEYAZ (avalibeyaz.com/github)
-description=A Magisk and KernelSU module that enables Google Contacts and Calendar sync
+description=A Magisk and KernelSU module that enables Google Contacts and Calendar sync on MicroG
 updateJson=https://raw.githubusercontent.com/symbuzzer/microg-google-contact-and-calendar-sync/main/update.json
